@@ -1,0 +1,208 @@
+{
+  "source": "JustPlay Store – Demo.html",
+  "generator": "scripts/extract-from-demo.mjs",
+  "productCount": 6,
+  "images": [
+    {
+      "slot": "logo",
+      "file": "logo.jpg",
+      "path": "public/images/logo.jpg",
+      "src": "/images/logo.jpg",
+      "bytes": 4778,
+      "sha256": "070418518cf33bd56ffce766037426a08929606d4508d904cf98dc0a35f7bf12",
+      "width": 120,
+      "height": 120,
+      "duplicateOf": null
+    },
+    {
+      "slot": "hero",
+      "file": "hero.jpg",
+      "path": "public/images/hero.jpg",
+      "src": "/images/hero.jpg",
+      "bytes": 12915,
+      "sha256": "8724239114ba383960b20f383122b86e189afd494f5ceb4d73863bf7613450e6",
+      "width": 194,
+      "height": 378,
+      "duplicateOf": null
+    },
+    {
+      "slot": "servicios",
+      "file": "servicios.jpg",
+      "path": "public/images/servicios.jpg",
+      "src": "/images/servicios.jpg",
+      "bytes": 97595,
+      "sha256": "8de143e24b852167d79b37f5f0c417e04ba39bd3610461daee22ac01d35e695d",
+      "width": 589,
+      "height": 589,
+      "duplicateOf": null
+    },
+    {
+      "slot": "producto:Consola PlayStation 5 Slim",
+      "file": "ps5-slim.jpg",
+      "path": "public/images/ps5-slim.jpg",
+      "src": "/images/ps5-slim.jpg",
+      "bytes": 7579,
+      "sha256": "a018855a8b207305f66ffe0125866dc59d940f68e0ca53fb5b3765f909f2ecee",
+      "width": 200,
+      "height": 200,
+      "duplicateOf": null
+    },
+    {
+      "slot": "producto:Control DualSense PS5",
+      "file": "control-dualsense-ps5.jpg",
+      "path": "public/images/control-dualsense-ps5.jpg",
+      "src": "/images/control-dualsense-ps5.jpg",
+      "bytes": 3635,
+      "sha256": "eec86a34c48bda1ac466bb2aa8a3f27be715b84e0da381c0cbd0b887cb458d6a",
+      "width": 106,
+      "height": 100,
+      "duplicateOf": null
+    },
+    {
+      "slot": "producto:Mantenimiento especial PS5",
+      "file": "mantenimiento-ps5.jpg",
+      "path": "public/images/mantenimiento-ps5.jpg",
+      "src": "/images/mantenimiento-ps5.jpg",
+      "bytes": 97595,
+      "sha256": "8de143e24b852167d79b37f5f0c417e04ba39bd3610461daee22ac01d35e695d",
+      "width": 589,
+      "height": 589,
+      "duplicateOf": "public/images/servicios.jpg"
+    }
+  ],
+  "products": [
+    {
+      "legacyIndex": 0,
+      "name": "Consola PlayStation 5 Slim",
+      "category": "Consolas",
+      "price": 520,
+      "options": [
+        "Con lector",
+        "Digital"
+      ],
+      "description": "La PS5 Slim con SSD de alta velocidad y gráficos en 4K. Disponible con lector de discos o en versión digital.",
+      "features": [
+        "SSD de alta velocidad",
+        "Salida 4K hasta 120 fps",
+        "Control DualSense incluido",
+        "Garantía de la tienda"
+      ],
+      "media": {
+        "kind": "photo",
+        "src": "/images/ps5-slim.jpg",
+        "width": 200,
+        "height": 200
+      }
+    },
+    {
+      "legacyIndex": 1,
+      "name": "Control DualSense PS5",
+      "category": "Accesorios",
+      "price": 75,
+      "options": [
+        "Blanco",
+        "Negro",
+        "Rojo"
+      ],
+      "description": "Control inalámbrico con gatillos adaptativos y respuesta háptica.",
+      "features": [
+        "Gatillos adaptativos",
+        "Respuesta háptica",
+        "Micrófono integrado",
+        "Batería recargable"
+      ],
+      "media": {
+        "kind": "photo",
+        "src": "/images/control-dualsense-ps5.jpg",
+        "width": 106,
+        "height": 100
+      }
+    },
+    {
+      "legacyIndex": 2,
+      "name": "Mantenimiento especial PS5",
+      "category": "Servicio técnico",
+      "price": 35,
+      "options": [
+        "PS5 Slim",
+        "PS5 Fat"
+      ],
+      "description": "Servicio completo de limpieza y mantenimiento realizado en nuestro local, con atención personalizada y garantía.",
+      "features": [
+        "Limpieza de disipador y ventilador",
+        "Limpieza de placa y componentes",
+        "Limpieza de puertos USB y HDMI",
+        "Inspección de ventilación",
+        "Cambio de metal líquido del procesador",
+        "Garantía de 30 días"
+      ],
+      "media": {
+        "kind": "photo",
+        "src": "/images/mantenimiento-ps5.jpg",
+        "width": 589,
+        "height": 589
+      }
+    },
+    {
+      "legacyIndex": 3,
+      "name": "Audífonos gamer 7.1",
+      "category": "Audífonos",
+      "price": 48,
+      "options": [
+        "Negro",
+        "Naranja"
+      ],
+      "description": "Sonido envolvente con micrófono desmontable, cómodos para sesiones largas.",
+      "features": [
+        "Sonido envolvente 7.1",
+        "Micrófono desmontable",
+        "Compatible con PS5, PC y Xbox"
+      ],
+      "media": {
+        "kind": "icon",
+        "icon": "head"
+      }
+    },
+    {
+      "legacyIndex": 4,
+      "name": "Juego físico PS5",
+      "category": "Juegos",
+      "price": 60,
+      "options": [
+        "Estándar",
+        "Deluxe"
+      ],
+      "description": "Juegos originales sellados. Consulta por disponibilidad de títulos.",
+      "features": [
+        "Original y sellado",
+        "Entrega en tienda",
+        "Consulta por otros títulos"
+      ],
+      "media": {
+        "kind": "icon",
+        "icon": "disc"
+      }
+    },
+    {
+      "legacyIndex": 5,
+      "name": "Control PS4 DualShock 4",
+      "category": "Accesorios",
+      "price": 42,
+      "options": [
+        "Negro",
+        "Azul",
+        "Rojo"
+      ],
+      "description": "Control inalámbrico compatible con PS4 y PC, con panel táctil y barra de luz.",
+      "features": [
+        "Panel táctil",
+        "Conexión Bluetooth",
+        "Compatible con PC"
+      ],
+      "media": {
+        "kind": "icon",
+        "icon": "pad"
+      }
+    }
+  ]
+}

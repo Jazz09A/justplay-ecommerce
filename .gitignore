@@ -1,0 +1,31 @@
+# dependencias
+node_modules/
+.pnp
+.pnp.js
+
+# build
+/.next/
+/out/
+/build
+next-env.d.ts
+*.tsbuildinfo
+
+# testing
+/coverage
+
+# variables de entorno
+.env
+.env*.local
+
+# sistema / editores
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.vscode/
+.idea/
+
+# Nota: public/images/*.jpg y public/images/manifest.json NO se ignoran.
+# Son artefactos generados por `npm run extract` (scripts/extract-from-demo.mjs),
+# pero se versionan porque app/globals.css y lib/products.ts dependen de ellos
+# para que `npm run build` funcione en un clon limpio.
